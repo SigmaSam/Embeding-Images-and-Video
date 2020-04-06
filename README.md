@@ -9,7 +9,8 @@ The focus of this project is to recreate with HTML and CSS the look of a standar
 
 
 
-    ![](Images/preview.png)
+
+![](Images/preview.png)
 
 
 
@@ -60,9 +61,10 @@ Show More button (prop to load more comments)
 
 
   Live Link
-<a href="https://rawcdn.githack.com/SigmaSam/Main-Course-HTML--1--Embedding-Images-and-Video/3ba5c8159bf2242ddcac1f683c36889db3d25d17/index.html">Click Here</a>
-7:42
-  Authors:
+
+<a href="https://rawcdn.githack.com/SigmaSam/Embeding-Images-and-Video-Ignacio-y-Samuel./36c88859e020a95e4311f6aaae6d876a01131f78/index.html" >Click Here</a>
+
+Authors:
 
   Samuel Almao
 Github: @SigmaSam

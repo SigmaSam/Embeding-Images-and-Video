@@ -1,5 +1,5 @@
 html {
-  background-color: #EEEEEE;
+
   font-family: Roboto, Arial, "Sans Serif", Noto, "YT Sans", "Roboto Mono";
 }
 
@@ -7,7 +7,7 @@ body {
   /* margin: 10px 10px; */
   line-height: 1.4;
   /* padding: 10px 0; */
-  background-color: #EEEEEE;
+  background-color: white;
 }
 
 button {
@@ -222,9 +222,9 @@ hr {
   text-align: right;
   font-weight: bold;
   line-height: 24px;
-  font-size: 18px;
+  font-size: 16px;
   color: rgb(102, 102, 102);
-  grid-column: 7;
+  grid-column: 6;
   grid-row: 3;
 
 }
@@ -233,15 +233,16 @@ hr {
   background: url(Images/like.png);
   background-repeat: no-repeat;
   background-position: center;
-  grid-column: 6;
+  grid-column: 5;
   grid-row:4;
+  
 }
 
 .vin-G {
   background: url(Images/dislike.png);
   background-repeat: no-repeat;
   background-position: center;
-  grid-column: 7;
+  grid-column: 6;
   grid-row:4;
 }
 

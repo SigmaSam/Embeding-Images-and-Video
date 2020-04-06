@@ -4,6 +4,18 @@ Microverse #1 Project ,  Main Course HTML #1, Embedding Images and Video
 
 The focus of this project is to recreate with HTML and CSS the look of a standard YouTube Video Webpage.
 
+
+    Preview
+
+
+
+    ![](Images/preview.png)
+
+
+
+
+
+
 Built Using:
 
 HTML

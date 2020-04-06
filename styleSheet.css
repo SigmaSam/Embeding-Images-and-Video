@@ -123,7 +123,7 @@ hr {
   width: 820px;
   max-width: 100%;
   margin: 1rem 0  0 -50px;
-  padding: 0 24.1rem 0 1rem;
+  /* padding: 0 24.1rem 0 1rem; */
   display: inline-grid;
   grid-row: 4;
   grid-column: 1/2;
@@ -146,7 +146,7 @@ hr {
   background-color: white;
   padding-left: 1rem;
   margin-left: 1rem;
-  margin-top: -873px;
+  margin-top: -983px;
 
 }
 
@@ -235,7 +235,7 @@ hr {
   background-position: center;
   grid-column: 5;
   grid-row:4;
-  
+
 }
 
 .vin-G {
